@@ -43,6 +43,7 @@ htb-academy-notes/
 
 ## 🛠️ Topics Covered (So Far)
 
+[Getting Started](Getting Started)
 ---
 
 ## 📚 Legal & Ethical Note
